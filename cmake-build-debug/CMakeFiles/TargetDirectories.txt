@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir
+C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

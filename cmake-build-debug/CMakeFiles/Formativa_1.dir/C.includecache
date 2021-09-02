@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/estudos_complementares/realloc.c
+stdio.h
+-
+stdlib.h
+-
+
