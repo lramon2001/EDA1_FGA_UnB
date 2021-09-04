@@ -85,19 +85,13 @@
 		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/estudos_complementares/realloc.c">
 			<Option target="Formativa_1"/>
 		</Unit>
-		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/A2.c">
+		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa1/D2.c">
 			<Option target="Formativa_1"/>
 		</Unit>
-		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/B2.c">
+		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa1/E2.c">
 			<Option target="Formativa_1"/>
 		</Unit>
-		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/D2.c">
-			<Option target="Formativa_1"/>
-		</Unit>
-		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/E2.c">
-			<Option target="Formativa_1"/>
-		</Unit>
-		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/F2.c">
+		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa1/F2.c">
 			<Option target="Formativa_1"/>
 		</Unit>
 		<Unit filename="C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/CMakeLists.txt">

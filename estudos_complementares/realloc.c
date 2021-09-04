@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include<stdlib.h>
 
-int main(void) {
+/*int main(void) {
     int*vetor;
     int i=0;
     vetor=malloc(5*sizeof(int));
@@ -32,3 +32,4 @@ int main(void) {
     free(vetor);
     return 0;
 }
+ */

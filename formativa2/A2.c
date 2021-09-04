@@ -14,8 +14,7 @@ float potenciacao(int base,int expoente){
         return base* potenciacao(base,expoente-1);
     }
 }
-
-/*int main(){
+int main(){
     int base,expoente;
 
     scanf("%d %d",&base,&expoente);
@@ -27,4 +26,4 @@ float potenciacao(int base,int expoente){
     }
     return 0;
 }
- */
+ 

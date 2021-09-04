@@ -75,48 +75,22 @@ include CMakeFiles/Formativa_1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Formativa_1.dir/flags.make
 
-CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
-CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj: ../formativa2/A2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa2\A2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\A2.c
+CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
+CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj: ../formativa1/F2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa1\F2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\F2.c
 
-CMakeFiles/Formativa_1.dir/formativa2/A2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa2/A2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\A2.c > CMakeFiles\Formativa_1.dir\formativa2\A2.c.i
+CMakeFiles/Formativa_1.dir/formativa1/F2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa1/F2.c.i"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\F2.c > CMakeFiles\Formativa_1.dir\formativa1\F2.c.i
 
-CMakeFiles/Formativa_1.dir/formativa2/A2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa2/A2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\A2.c -o CMakeFiles\Formativa_1.dir\formativa2\A2.c.s
-
-CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
-CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj: ../formativa2/B2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa2\B2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\B2.c
-
-CMakeFiles/Formativa_1.dir/formativa2/B2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa2/B2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\B2.c > CMakeFiles\Formativa_1.dir\formativa2\B2.c.i
-
-CMakeFiles/Formativa_1.dir/formativa2/B2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa2/B2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\B2.c -o CMakeFiles\Formativa_1.dir\formativa2\B2.c.s
-
-CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
-CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj: ../formativa2/F2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa2\F2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\F2.c
-
-CMakeFiles/Formativa_1.dir/formativa2/F2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa2/F2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\F2.c > CMakeFiles\Formativa_1.dir\formativa2\F2.c.i
-
-CMakeFiles/Formativa_1.dir/formativa2/F2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa2/F2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\F2.c -o CMakeFiles\Formativa_1.dir\formativa2\F2.c.s
+CMakeFiles/Formativa_1.dir/formativa1/F2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa1/F2.c.s"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\F2.c -o CMakeFiles\Formativa_1.dir\formativa1\F2.c.s
 
 CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj: CMakeFiles/Formativa_1.dir/flags.make
 CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj: ../estudos_complementares/ponteiro_para_funcao.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj"
 	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\estudos_complementares\ponteiro_para_funcao.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\estudos_complementares\ponteiro_para_funcao.c
 
 CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.i: cmake_force
@@ -127,35 +101,35 @@ CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.s"
 	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\estudos_complementares\ponteiro_para_funcao.c -o CMakeFiles\Formativa_1.dir\estudos_complementares\ponteiro_para_funcao.c.s
 
-CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
-CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj: ../formativa2/E2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa2\E2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\E2.c
+CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
+CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj: ../formativa1/E2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa1\E2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\E2.c
 
-CMakeFiles/Formativa_1.dir/formativa2/E2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa2/E2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\E2.c > CMakeFiles\Formativa_1.dir\formativa2\E2.c.i
+CMakeFiles/Formativa_1.dir/formativa1/E2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa1/E2.c.i"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\E2.c > CMakeFiles\Formativa_1.dir\formativa1\E2.c.i
 
-CMakeFiles/Formativa_1.dir/formativa2/E2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa2/E2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\E2.c -o CMakeFiles\Formativa_1.dir\formativa2\E2.c.s
+CMakeFiles/Formativa_1.dir/formativa1/E2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa1/E2.c.s"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\E2.c -o CMakeFiles\Formativa_1.dir\formativa1\E2.c.s
 
-CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
-CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj: ../formativa2/D2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa2\D2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\D2.c
+CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj: CMakeFiles/Formativa_1.dir/flags.make
+CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj: ../formativa1/D2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\formativa1\D2.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\D2.c
 
-CMakeFiles/Formativa_1.dir/formativa2/D2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa2/D2.c.i"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\D2.c > CMakeFiles\Formativa_1.dir\formativa2\D2.c.i
+CMakeFiles/Formativa_1.dir/formativa1/D2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Formativa_1.dir/formativa1/D2.c.i"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\D2.c > CMakeFiles\Formativa_1.dir\formativa1\D2.c.i
 
-CMakeFiles/Formativa_1.dir/formativa2/D2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa2/D2.c.s"
-	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa2\D2.c -o CMakeFiles\Formativa_1.dir\formativa2\D2.c.s
+CMakeFiles/Formativa_1.dir/formativa1/D2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Formativa_1.dir/formativa1/D2.c.s"
+	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\formativa1\D2.c -o CMakeFiles\Formativa_1.dir\formativa1\D2.c.s
 
 CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj: CMakeFiles/Formativa_1.dir/flags.make
 CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj: ../estudos_complementares/alocacaoDinamica.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj"
 	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\estudos_complementares\alocacaoDinamica.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\estudos_complementares\alocacaoDinamica.c
 
 CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.i: cmake_force
@@ -168,7 +142,7 @@ CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.s: cmake_fo
 
 CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj: CMakeFiles/Formativa_1.dir/flags.make
 CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj: ../estudos_complementares/realloc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj"
 	C:\TDM-GCC-64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Formativa_1.dir\estudos_complementares\realloc.c.obj -c C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\estudos_complementares\realloc.c
 
 CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.i: cmake_force
@@ -181,31 +155,27 @@ CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.s: cmake_force
 
 # Object files for target Formativa_1
 Formativa_1_OBJECTS = \
-"CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj" \
-"CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj" \
-"CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj" \
+"CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj" \
 "CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj" \
-"CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj" \
-"CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj" \
+"CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj" \
+"CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj" \
 "CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj" \
 "CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj"
 
 # External object files for target Formativa_1
 Formativa_1_EXTERNAL_OBJECTS =
 
-Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj
-Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj
-Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj
+Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj
-Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj
-Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj
+Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj
+Formativa_1.exe: CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/build.make
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/linklibs.rsp
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/objects1.rsp
 Formativa_1.exe: CMakeFiles/Formativa_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable Formativa_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable Formativa_1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Formativa_1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

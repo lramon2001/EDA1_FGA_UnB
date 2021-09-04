@@ -7,11 +7,9 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/estudos_complementares/alocacaoDinamica.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/estudos_complementares/alocacaoDinamica.c.obj"
   "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/estudos_complementares/ponteiro_para_funcao.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/estudos_complementares/ponteiro_para_funcao.c.obj"
   "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/estudos_complementares/realloc.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.obj"
-  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/A2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj"
-  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/B2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj"
-  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/D2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj"
-  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/E2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj"
-  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa2/F2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj"
+  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa1/D2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj"
+  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa1/E2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj"
+  "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/formativa1/F2.c" "C:/Users/USER/Desktop/UnB/Disciplinas/EDA/Formativas/cmake-build-debug/CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

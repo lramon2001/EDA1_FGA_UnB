@@ -92,12 +92,12 @@ clean: CMakeFiles/Formativa_1.dir/clean
 CMakeFiles/Formativa_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target Formativa_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Formativa_1"
 .PHONY : CMakeFiles/Formativa_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Formativa_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Formativa_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\USER\Desktop\UnB\Disciplinas\EDA\Formativas\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Formativa_1.dir/rule

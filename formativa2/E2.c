@@ -13,7 +13,7 @@ long long int conta7s (long long int numero){
     }
 
 }
-/*int main(){
+int main(){
     long long int numero;
     scanf("%ld",&numero);
     long long int total;
@@ -21,4 +21,3 @@ long long int conta7s (long long int numero){
     printf("%ld\n",total);
     return 0;
 }
-*/

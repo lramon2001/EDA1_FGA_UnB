@@ -42,7 +42,7 @@ void imprimesemosx(char*string){
 
 }
 
-/*int main(){
+int main(){
     char frase[110];
     scanf("%s",frase);
     int contadorDeXs= contaXs(frase);
@@ -52,4 +52,4 @@ void imprimesemosx(char*string){
 
 
 }
-*/
+

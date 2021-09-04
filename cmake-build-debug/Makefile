@@ -222,140 +222,86 @@ estudos_complementares/realloc.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/estudos_complementares/realloc.c.s
 .PHONY : estudos_complementares/realloc.c.s
 
-formativa2/A2.obj: formativa2/A2.c.obj
+formativa1/D2.obj: formativa1/D2.c.obj
 
-.PHONY : formativa2/A2.obj
-
-# target to build an object file
-formativa2/A2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/A2.c.obj
-.PHONY : formativa2/A2.c.obj
-
-formativa2/A2.i: formativa2/A2.c.i
-
-.PHONY : formativa2/A2.i
-
-# target to preprocess a source file
-formativa2/A2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/A2.c.i
-.PHONY : formativa2/A2.c.i
-
-formativa2/A2.s: formativa2/A2.c.s
-
-.PHONY : formativa2/A2.s
-
-# target to generate assembly for a file
-formativa2/A2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/A2.c.s
-.PHONY : formativa2/A2.c.s
-
-formativa2/B2.obj: formativa2/B2.c.obj
-
-.PHONY : formativa2/B2.obj
+.PHONY : formativa1/D2.obj
 
 # target to build an object file
-formativa2/B2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/B2.c.obj
-.PHONY : formativa2/B2.c.obj
+formativa1/D2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/D2.c.obj
+.PHONY : formativa1/D2.c.obj
 
-formativa2/B2.i: formativa2/B2.c.i
+formativa1/D2.i: formativa1/D2.c.i
 
-.PHONY : formativa2/B2.i
+.PHONY : formativa1/D2.i
 
 # target to preprocess a source file
-formativa2/B2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/B2.c.i
-.PHONY : formativa2/B2.c.i
+formativa1/D2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/D2.c.i
+.PHONY : formativa1/D2.c.i
 
-formativa2/B2.s: formativa2/B2.c.s
+formativa1/D2.s: formativa1/D2.c.s
 
-.PHONY : formativa2/B2.s
+.PHONY : formativa1/D2.s
 
 # target to generate assembly for a file
-formativa2/B2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/B2.c.s
-.PHONY : formativa2/B2.c.s
+formativa1/D2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/D2.c.s
+.PHONY : formativa1/D2.c.s
 
-formativa2/D2.obj: formativa2/D2.c.obj
+formativa1/E2.obj: formativa1/E2.c.obj
 
-.PHONY : formativa2/D2.obj
+.PHONY : formativa1/E2.obj
 
 # target to build an object file
-formativa2/D2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/D2.c.obj
-.PHONY : formativa2/D2.c.obj
+formativa1/E2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/E2.c.obj
+.PHONY : formativa1/E2.c.obj
 
-formativa2/D2.i: formativa2/D2.c.i
+formativa1/E2.i: formativa1/E2.c.i
 
-.PHONY : formativa2/D2.i
+.PHONY : formativa1/E2.i
 
 # target to preprocess a source file
-formativa2/D2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/D2.c.i
-.PHONY : formativa2/D2.c.i
+formativa1/E2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/E2.c.i
+.PHONY : formativa1/E2.c.i
 
-formativa2/D2.s: formativa2/D2.c.s
+formativa1/E2.s: formativa1/E2.c.s
 
-.PHONY : formativa2/D2.s
+.PHONY : formativa1/E2.s
 
 # target to generate assembly for a file
-formativa2/D2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/D2.c.s
-.PHONY : formativa2/D2.c.s
+formativa1/E2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/E2.c.s
+.PHONY : formativa1/E2.c.s
 
-formativa2/E2.obj: formativa2/E2.c.obj
+formativa1/F2.obj: formativa1/F2.c.obj
 
-.PHONY : formativa2/E2.obj
+.PHONY : formativa1/F2.obj
 
 # target to build an object file
-formativa2/E2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/E2.c.obj
-.PHONY : formativa2/E2.c.obj
+formativa1/F2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/F2.c.obj
+.PHONY : formativa1/F2.c.obj
 
-formativa2/E2.i: formativa2/E2.c.i
+formativa1/F2.i: formativa1/F2.c.i
 
-.PHONY : formativa2/E2.i
-
-# target to preprocess a source file
-formativa2/E2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/E2.c.i
-.PHONY : formativa2/E2.c.i
-
-formativa2/E2.s: formativa2/E2.c.s
-
-.PHONY : formativa2/E2.s
-
-# target to generate assembly for a file
-formativa2/E2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/E2.c.s
-.PHONY : formativa2/E2.c.s
-
-formativa2/F2.obj: formativa2/F2.c.obj
-
-.PHONY : formativa2/F2.obj
-
-# target to build an object file
-formativa2/F2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/F2.c.obj
-.PHONY : formativa2/F2.c.obj
-
-formativa2/F2.i: formativa2/F2.c.i
-
-.PHONY : formativa2/F2.i
+.PHONY : formativa1/F2.i
 
 # target to preprocess a source file
-formativa2/F2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/F2.c.i
-.PHONY : formativa2/F2.c.i
+formativa1/F2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/F2.c.i
+.PHONY : formativa1/F2.c.i
 
-formativa2/F2.s: formativa2/F2.c.s
+formativa1/F2.s: formativa1/F2.c.s
 
-.PHONY : formativa2/F2.s
+.PHONY : formativa1/F2.s
 
 # target to generate assembly for a file
-formativa2/F2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa2/F2.c.s
-.PHONY : formativa2/F2.c.s
+formativa1/F2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Formativa_1.dir\build.make CMakeFiles/Formativa_1.dir/formativa1/F2.c.s
+.PHONY : formativa1/F2.c.s
 
 # Help Target
 help:
@@ -375,21 +321,15 @@ help:
 	@echo ... estudos_complementares/realloc.obj
 	@echo ... estudos_complementares/realloc.i
 	@echo ... estudos_complementares/realloc.s
-	@echo ... formativa2/A2.obj
-	@echo ... formativa2/A2.i
-	@echo ... formativa2/A2.s
-	@echo ... formativa2/B2.obj
-	@echo ... formativa2/B2.i
-	@echo ... formativa2/B2.s
-	@echo ... formativa2/D2.obj
-	@echo ... formativa2/D2.i
-	@echo ... formativa2/D2.s
-	@echo ... formativa2/E2.obj
-	@echo ... formativa2/E2.i
-	@echo ... formativa2/E2.s
-	@echo ... formativa2/F2.obj
-	@echo ... formativa2/F2.i
-	@echo ... formativa2/F2.s
+	@echo ... formativa1/D2.obj
+	@echo ... formativa1/D2.i
+	@echo ... formativa1/D2.s
+	@echo ... formativa1/E2.obj
+	@echo ... formativa1/E2.i
+	@echo ... formativa1/E2.s
+	@echo ... formativa1/F2.obj
+	@echo ... formativa1/F2.i
+	@echo ... formativa1/F2.s
 .PHONY : help
 
 

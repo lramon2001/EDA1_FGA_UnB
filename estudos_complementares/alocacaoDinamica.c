@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<stdlib.h>
 
-/*int main(void) {
+int main(void) {
     int*vetor;
     int quantidade;
     int i=0;
@@ -21,4 +21,3 @@
     free(vetor);
     return 0;
 }
-*/
