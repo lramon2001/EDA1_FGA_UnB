@@ -26,5 +26,6 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  D: [Move os Xs](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
 -  E: [Conta 7s](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/count7.pdf);
 -  F: [Fibonacci](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/fibonacci-memoizacao.pdf);
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa1) para ver as soluções feitas por mim.</b>
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
