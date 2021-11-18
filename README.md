@@ -36,5 +36,5 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  A: [Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa1/busca-binaria-2.pdf);
 -  B: [Progressão aritmética](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa1/pa-recursivo.pdf);
 
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa1) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
