@@ -38,7 +38,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  C: [Busca Binária](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/busca-binaria-1.pdf);
 -  D: [Carteiro](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/carteiro.pdf);
 
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa3) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
 
 ## Somativa 1
@@ -83,7 +83,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  C: [Desenfileira-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-desenfileira-lista.pdf);
 -  D: [Enfileira-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-enfileira-lista.pdf);
 
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa6) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
 ## Somativa 2
 
