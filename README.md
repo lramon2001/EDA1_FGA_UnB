@@ -58,7 +58,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  C: [Inserção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/rumo9s.pdf);
 -  D: [Remoção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
 -  E: [Junção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/count7.pdf);
--  F: [Divisão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/fibonacci-memoizacao.pdf);
+-  F: [Divisão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-divide.pdf);
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
