@@ -32,7 +32,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 ## Formativa 3
 
-<b>A formativa 3 foi, basicamente, uma abordagem de algoritmos de ordenação e bsuca.</b>
+<b>A formativa 3 foi, basicamente, uma abordagem de algoritmos de ordenação e busca.</b>
 -  A: [Ordenação Simples](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/ordenasimples.pdf);
 -  B: [Ordenação sem laços](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/ordenasemlaco.pdf);
 -  C: [Busca Binária](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/busca-binaria-1.pdf);
@@ -73,4 +73,15 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  E: [Parentização de expressões](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/exp-mat1.pdf);
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
+
+## Formativa 6
+
+<b>A formativa 3 foi, basicamente, uma abordagem de filas.</b>
+-  A: [Desenfileira-Vetor Circular]();
+-  B: [Enfileira-Vetor Circular]();
+-  C: [Desenfileira-Lista]();
+-  D: [Enfileira-Lista]();
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
