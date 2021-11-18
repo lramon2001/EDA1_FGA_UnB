@@ -49,3 +49,16 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa1) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
+
+## Formativa 4
+
+<b>A formativa 4 foi, basicamente, uma abordagem de listas ligadas.</b>
+-  A: [Lista ligada-Impressão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/potencia-rec.pdf);
+-  B: [Lista ligada-Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/f91.pdf);
+-  C: [Lista ligada-Inserção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/rumo9s.pdf);
+-  D: [Lista ligada-Remoção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
+-  E: [Lista ligada-Junção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/count7.pdf);
+-  F: [Lista ligada-Divisão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/fibonacci-memoizacao.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
