@@ -36,7 +36,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  A: [Ordenação Simples](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/potencia-rec.pdf);
 -  B: [Ordenação sem laços](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/f91.pdf);
 -  C: [Busca Binária](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/rumo9s.pdf);
--  D: [Carteiro](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
+-  D: [Carteiro](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/carteiro.pdf);
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
