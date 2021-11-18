@@ -69,7 +69,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  A: [Desempilha-Vetor](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-desempilha-vetor.pdf);
 -  B: [Empilha-Vetor](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-empilha-vetor.pdf);
 -  C: [Desempilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-desempilha-lista.pdf);
--  D: [Empilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-remocao.pdf);
+-  D: [Empilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-empilha-lista.pdf);
 -  E: [Parentização de expressões](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-junta.pdf);
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
