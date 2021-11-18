@@ -60,5 +60,5 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  E: [Junção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-junta.pdf);
 -  F: [Divisão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-divide.pdf);
 
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
