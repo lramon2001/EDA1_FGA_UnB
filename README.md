@@ -29,3 +29,12 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
+
+## Somativa 1
+
+<b>A Somativa 1 foi, basicamente, a reunião de dois conteúdos : otimização de algoritmos de busca e recursividade.</b>
+-  A: [Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/potencia-rec.pdf);
+-  B: [Progressão aritmética](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/f91.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
