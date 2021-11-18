@@ -93,5 +93,5 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  C: [Turnê](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/turne.pdf);
 -  D: [Árvores binárias](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/preinpos.pdf);
 
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa1) para ver as soluções feitas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
