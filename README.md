@@ -56,7 +56,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  A: [Impressão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-impressao.pdf);
 -  B: [Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-busca.pdf);
 -  C: [Inserção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-insercao.pdf);
--  D: [Remoção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
+-  D: [Remoção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-remocao.pdf);
 -  E: [Junção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-junta.pdf);
 -  F: [Divisão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-divide.pdf);
 
