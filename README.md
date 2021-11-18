@@ -85,3 +85,13 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
+## Somativa 1
+
+<b>A Somativa 2 foi, basicamente, o exercício de todas as estruturas de dados estudadas (Lista encadeada,pilha,fila e árvore).</b>
+-  A: [Notas da turma]();
+-  B: [Ctrl+Z]();
+-  C: [Turnê]();
+-  D: [Árvores binárias]();
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa1) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
