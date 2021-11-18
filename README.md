@@ -72,7 +72,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  D: [Empilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-empilha-lista.pdf);
 -  E: [Parentização de expressões](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/exp-mat1.pdf);
 
-<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa5) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
 
 ## Formativa 6
