@@ -80,7 +80,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 <b>A formativa 6 foi, basicamente, uma abordagem de filas.</b>
 -  A: [Desenfileira-Vetor Circular](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-desenfileira-circular.pdf);
 -  B: [Enfileira-Vetor Circular](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-enfileira-circular.pdf);
--  C: [Desenfileira-Lista]();
+-  C: [Desenfileira-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-desenfileira-lista.pdf);
 -  D: [Enfileira-Lista]();
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
