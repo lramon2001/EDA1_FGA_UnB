@@ -77,7 +77,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 ## Formativa 6
 
-<b>A formativa 3 foi, basicamente, uma abordagem de filas.</b>
+<b>A formativa 6 foi, basicamente, uma abordagem de filas.</b>
 -  A: [Desenfileira-Vetor Circular]();
 -  B: [Enfileira-Vetor Circular]();
 -  C: [Desenfileira-Lista]();
@@ -85,7 +85,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
-## Somativa 1
+## Somativa 2
 
 <b>A Somativa 2 foi, basicamente, o exercício de todas as estruturas de dados estudadas (Lista encadeada,pilha,fila e árvore).</b>
 -  A: [Notas da turma](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/divide-turma.pdf);
