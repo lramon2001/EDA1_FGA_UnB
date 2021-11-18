@@ -62,3 +62,15 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
+
+## Formativa 5
+
+<b>A formativa 5 foi, basicamente, uma abordagem de pilhas.</b>
+-  A: [Desempilha-Vetor](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-impressao.pdf);
+-  B: [Empilha-Vetor](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-busca.pdf);
+-  C: [Desempilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-insercao.pdf);
+-  D: [Empilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-remocao.pdf);
+-  E: [Parentização de expressões](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-junta.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
