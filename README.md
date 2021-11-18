@@ -53,7 +53,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 ## Formativa 4
 
 <b>A formativa 4 foi, basicamente, uma abordagem de listas ligadas.</b>
--  A: [Impressão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/potencia-rec.pdf);
+-  A: [Impressão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-impressao.pdf);
 -  B: [Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/f91.pdf);
 -  C: [Inserção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/rumo9s.pdf);
 -  D: [Remoção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
