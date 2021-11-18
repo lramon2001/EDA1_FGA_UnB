@@ -32,7 +32,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 ## Formativa 3
 
-<b>A formativa 3 foi, basicamente, uma abordagem de algoritmos de ordenação e bsuca.</b>
+<b>A formativa 3 foi, basicamente, uma abordagem de algoritmos de ordenação e busca.</b>
 -  A: [Ordenação Simples](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/ordenasimples.pdf);
 -  B: [Ordenação sem laços](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/ordenasemlaco.pdf);
 -  C: [Busca Binária](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa3/busca-binaria-1.pdf);
@@ -48,4 +48,50 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  B: [Progressão aritmética](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa1/pa-recursivo.pdf);
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa1) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
+
+## Formativa 4
+
+<b>A formativa 4 foi, basicamente, uma abordagem de listas ligadas.</b>
+-  A: [Impressão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-impressao.pdf);
+-  B: [Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-busca.pdf);
+-  C: [Inserção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-insercao.pdf);
+-  D: [Remoção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-remocao.pdf);
+-  E: [Junção](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-junta.pdf);
+-  F: [Divisão](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa4/le-divide.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
+
+## Formativa 5
+
+<b>A formativa 5 foi, basicamente, uma abordagem de pilhas.</b>
+-  A: [Desempilha-Vetor](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-desempilha-vetor.pdf);
+-  B: [Empilha-Vetor](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-empilha-vetor.pdf);
+-  C: [Desempilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-desempilha-lista.pdf);
+-  D: [Empilha-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/pilha-empilha-lista.pdf);
+-  E: [Parentização de expressões](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa5/exp-mat1.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa4) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
+
+## Formativa 6
+
+<b>A formativa 6 foi, basicamente, uma abordagem de filas.</b>
+-  A: [Desenfileira-Vetor Circular](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-desenfileira-circular.pdf);
+-  B: [Enfileira-Vetor Circular](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-enfileira-circular.pdf);
+-  C: [Desenfileira-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-desenfileira-lista.pdf);
+-  D: [Enfileira-Lista](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa6/fila-enfileira-lista.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
+## Somativa 2
+
+<b>A Somativa 2 foi, basicamente, o exercício de todas as estruturas de dados estudadas (Lista encadeada,pilha,fila e árvore).</b>
+-  A: [Notas da turma](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/divide-turma.pdf);
+-  B: [Ctrl+Z](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/ctrl-z.pdf);
+-  C: [Turnê](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/turne.pdf);
+-  D: [Árvores binárias](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Somativa2/preinpos.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/somativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
