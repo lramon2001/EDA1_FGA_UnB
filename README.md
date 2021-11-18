@@ -17,15 +17,24 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa1) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
-## Formativa 1
+## Formativa 2
 
-<b>A formativa 1 foi, basicamente, uma revisão de Algoritmos e programação de computadores. Com 10 problemas de resolução puramente algorítmica na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+<b>A formativa 2 foi, basicamente, uma abordagem de algoritmos recursivos.</b>
 -  A: [Potenciação](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/potencia-rec.pdf);
 -  B: [F91](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/f91.pdf);
 -  C: [Rumo aos 9](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/rumo9s.pdf);
 -  D: [Move os Xs](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/moveX.pdf);
 -  E: [Conta 7s](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/count7.pdf);
 -  F: [Fibonacci](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/fibonacci-memoizacao.pdf);
+
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
+<br><br>by <b>Lucas Ramon</b>
+
+## Somativa 1
+
+<b>A Somativa 1 foi, basicamente, a reunião de dois conteúdos : otimização de algoritmos de busca e recursividade.</b>
+-  A: [Busca](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/potencia-rec.pdf);
+-  B: [Progressão aritmética](https://github.com/lramon2001/EDA1_FGA_UnB/blob/master/problemas_Formativa2/f91.pdf);
 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções feitas por mim.</b>
 <br><br>by <b>Lucas Ramon</b>
